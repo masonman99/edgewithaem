@@ -1,6 +1,8 @@
 {
   "mappings": [
     "/content/edgedeliveryue/:/"
+    "/content/edgedeliveryue/configuration:/.helix/config.json"
+    "/content/edgedeliveryue/metadata:/metadata.json"
   ],
   "includes": [
     "/content/edgedeliveryue/"
